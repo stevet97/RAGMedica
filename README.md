@@ -29,4 +29,4 @@ Contributions are welcome! See the contributing guidelines for more details.
 
 Models used: 
 https://huggingface.co/thenlper/gte-large
-HuggingFaceH4/zephyr-7b-beta
+https://huggingface.co/HuggingFaceH4/zephyr-7b-beta
