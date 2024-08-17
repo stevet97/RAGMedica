@@ -1,5 +1,5 @@
 
-Project Overview
+## Project Overview
 This project integrates retrieval-based models with generative models to deliver accurate, contextually relevant responses for the medical field. Leveraging HuggingFace's Transformers library and open-source Large Language Models (LLMs), it efficiently retrieves and synthesizes highly specific medical information, addressing the need for rapid access to precise data in healthcare.
 
 Problem Solved
