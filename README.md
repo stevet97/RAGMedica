@@ -30,3 +30,9 @@ Contributions are welcome! See the contributing guidelines for more details.
 ## Models used: 
 https://huggingface.co/thenlper/gte-large
 https://huggingface.co/HuggingFaceH4/zephyr-7b-beta
+
+my-github-repo/
+├── README.md
+├── images/
+│   ├── model_architecture.png
+│   └── sample_output.png
