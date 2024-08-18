@@ -34,6 +34,6 @@ https://huggingface.co/HuggingFaceH4/zephyr-7b-beta
 ## Usage
 ![Model Loading and Configuration](images/Screenshot%202024-08-17%20121657.png)
 ![Interactive Query](images/Screenshot%202024-08-17%20121725.png)
-![Data Loading and Preparation](images/Screenshot%202024-08-17%20121845.png）
+![Data Loading and Preparation](images/Screenshot%202024-08-17%20121845.png)
 
 
