@@ -2,13 +2,14 @@
 - [Project Overview](#project-overview)
 - [Problem Solved](#problem-solved)
 - [Key Features](#key-features)
-- [Technologies Used](technologies-used)
+- [Technologies Used](#technologies-used)
 - [How It Works](#how-it-works)
 - [Use Cases](#use-cases)
 - [Installation & Usage](#installation--usage)
 - [Contributing](#contributing)
 - [Models Used](#models-used)
 - [Usage](#usage)
+
 
 ## Project Overview
 This project, my first AI endeavor, integrates retrieval-based models with generative models to deliver accurate, contextually relevant responses for the medical field. It leverages HuggingFace's Transformers library and open-source Large Language Models (LLMs) to efficiently retrieve and synthesize highly specific medical information. The goal was to address the need for rapid access to precise data in healthcare, a challenge I’m passionate about solving.
