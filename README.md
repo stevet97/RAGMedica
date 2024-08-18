@@ -35,4 +35,4 @@ https://huggingface.co/HuggingFaceH4/zephyr-7b-beta
 Here's a screenshot showing the output of the model:
 Data Loading and Preparation
 
-images/Data Loading and Preparation
+![Data Loading and Preparation](images/Screenshot 2024-08-17 115547.png)
