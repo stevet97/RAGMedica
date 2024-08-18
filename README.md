@@ -32,7 +32,7 @@ https://huggingface.co/thenlper/gte-large
 https://huggingface.co/HuggingFaceH4/zephyr-7b-beta
 
 ## Usage
-![Data Loading and Preparation](images/Screenshot%202024-08-17%20121657.png)
+![Model Loading and Configuration](images/Screenshot%202024-08-17%20121657.png)
 
 
 
