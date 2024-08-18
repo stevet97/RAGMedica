@@ -28,6 +28,7 @@ Medical Focus: Optimized for fast and precise retrieval of intricate medical dat
 - PyTorch
 - LangChain
 - Jupyter Notebook
+  
 
 ## How It Works
 Query Input: A medical query is input into the system.
@@ -72,5 +73,5 @@ Here, the process of loading and preparing data for the model is shown.
 
 ## Connect with Me
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yourusername) to discuss this project or other AI-related topics!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/stephen-thomas-6037931b6/) to discuss this project or other AI-related topics!
 
